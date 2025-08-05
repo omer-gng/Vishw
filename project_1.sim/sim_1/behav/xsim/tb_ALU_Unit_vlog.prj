@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/new/ALU_Branch.v" \
+"../../../../project_1.srcs/sources_1/new/ALU_Immediate.v" \
+"../../../../project_1.srcs/sources_1/new/ALU_Jump.v" \
+"../../../../project_1.srcs/sources_1/new/ALU_LoadStore.v" \
+"../../../../project_1.srcs/sources_1/new/ALU_Register.v" \
+"../../../../project_1.srcs/sources_1/new/ALU_UType.v" \
+"../../../../project_1.srcs/sources_1/new/ALU_Word.v" \
+"../../../../project_1.srcs/sources_1/new/ALU_Unit.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

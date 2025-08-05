@@ -1,0 +1,17 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/project_1/project_1.srcs/sources_1/new/ALU_Branch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Branch
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/project_1/project_1.srcs/sources_1/new/ALU_Immediate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Immediate
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/project_1/project_1.srcs/sources_1/new/ALU_Jump.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Jump
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/project_1/project_1.srcs/sources_1/new/ALU_LoadStore.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_LoadStore
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/project_1/project_1.srcs/sources_1/new/ALU_Register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Register
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/project_1/project_1.srcs/sources_1/new/ALU_UType.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_UType
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/project_1/project_1.srcs/sources_1/new/ALU_Word.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Word
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/project_1/project_1.srcs/sources_1/new/ALU_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Unit
+INFO: [VRFC 10-311] analyzing module tb_ALU_Unit

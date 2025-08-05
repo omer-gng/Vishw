@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+Starting ALU_Unit test...
+ADD:                   25 +                   17 =                   42
+SUB:                   10 -                   25 = 18446744073709551601
+AND: ffffffffffffffff & f0f0f0f0f0f0f0f0 = f0f0f0f0f0f0f0f0
+SLT: 18446744073709551611 <                    3 =                    1
+ADDI:                   10 +         15 =                    1
+ADDW: 00000000ffff0000 + 0000000000000001 = fffffffffffe0000
+BEQ taken? 1
+JAL target =                  108, link =                  104
+LUI result = 0000000010000000
+Store addr =                  208, store_data = 123456789abcdef0
+Test complete.
+$finish called at time : 100 ns : File "C:/Vivado/project_1/project_1.srcs/sources_1/new/ALU_Unit.v" Line 262
